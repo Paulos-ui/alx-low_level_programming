@@ -1,8 +1,11 @@
 #ifndef MAIN_H
-#define main_h
+#define MAIN_H
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <limits.h>
 int _putchar(char c);
-int check_num(char *str);
 
-#endif
 
+#endif /* MAIN_H */

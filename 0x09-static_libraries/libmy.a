@@ -47,3 +47,11 @@ char *_memset(char *s, char b, unsigned int n)
 	return (s);
 }
 
+main.c/         0           0     0     644     148       `
+#include "main.h"
+
+int main(void)
+{
+    _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+    return (0);
+}

@@ -20,7 +20,6 @@ void error_file(int file_from, int file_to, char *argv[])
 	}
 }
 
-  // write the code for the second aguement program
 int main(int argc, char *argv[])
 {
 	int file_from, file_to, err_close;

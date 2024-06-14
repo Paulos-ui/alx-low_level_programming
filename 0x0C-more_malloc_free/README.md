@@ -1,11 +1,11 @@
 # 0x0C-more_malloc_free
 In this project,  I learned about using exit, calloc, and realloc in C.
 
-###Tests ✔️
+### Tests ✔️
 
     tests: Folder of test files. Provided by Holberton School.
 
-###Header File 📁
+### Header File 📁
 
     main.h: Header file containing prototypes for all functions written in the project.
 
